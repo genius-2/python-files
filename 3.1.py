@@ -1,0 +1,5 @@
+print("Как тебя зовут?")
+name=input()
+print("Привет,",name,"!")
+print("type 'end' to exit ")
+e=str(input())
